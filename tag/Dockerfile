@@ -1,4 +1,4 @@
-FROM ruby:2-slim
+FROM ruby:2.6-slim
 
 LABEL "name"="Docker Tagging Action"
 LABEL "maintainer"="GitHub Actions <support+actions@github.com>"
